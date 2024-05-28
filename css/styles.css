@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F2E3D5;
+}
+
+.caja1 {
+    background-color: #012E40;
+    height: 150px;
+}
+
+.caja2 {
+    background-color: #024959;
+    height: 150px;
+}
+
+.caja3 {
+    background-color: #026773;
+    height: 150px;
+}
+
+.caja4 {
+    background-color: #3CA6A6;
+    height: 150px;
+}
+
+.caja5 {
+    background-color: chartreuse;
+    height: 150px;
+}
